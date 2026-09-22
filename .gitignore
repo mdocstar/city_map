@@ -1,2 +1,5 @@
 *.html
 __pycache__/
+
+# local secrets (AMap key, etc.)
+config.py
